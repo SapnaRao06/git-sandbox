@@ -1,2 +1,3 @@
  Welcome to git add commit command. This file is being push to repository
  Adding second line for commit 
+ Skipping the staging area & directly commiting to repository
