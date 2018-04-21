@@ -1,0 +1,2 @@
+
+Adding a new file in GutHub & try to sync the local repo with this file.
