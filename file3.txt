@@ -1,0 +1,1 @@
+Cloning the remote repository using got clone command.
