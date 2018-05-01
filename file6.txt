@@ -1,0 +1,2 @@
+Hi , I am adding a new file file6.txt into fetaure branch & later merging with master
+
