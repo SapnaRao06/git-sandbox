@@ -2,3 +2,4 @@ Hi , I am adding a new file file6.txt into fetaure branch & later merging with m
 Adding function one with one parameter
 Adding function two with two parameter
 Adding function three with three parameter
+Additig additinal text on master branch for rebase merge stratergy
