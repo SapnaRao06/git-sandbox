@@ -1,3 +1,4 @@
 Hi , I am adding a new file file6.txt into fetaure branch & later merging with master
 Adding function one with one parameter
 Adding function two with two parameter
+Adding function three with three parameter
